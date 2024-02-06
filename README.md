@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronald Blanco Navarro</h1>
 <h3 align="center">A passionate Systems Engineer graduated from UNA</h3>
-
+I am a responsible, organized, and hardworking person with a focus on efficiency and proactivity. My constant search for opportunities drives my learning and professional growth. Ready to take on challenges, identify opportunities, achieve goals, and evolve in my professional career. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldblanconavarro&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldblanconavarro" /> </p>
 
 <h3 align="left">Connect with me:</h3>
